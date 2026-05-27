@@ -593,5 +593,5 @@ if executar:
 
 st.divider()
 st.caption(
-    "Artefato 03 — App Streamlit. Este protótipo depende dos Artefatos 01 e 02 já executados com sucesso."
+    "Artefato de Consulta — App Streamlit. Este protótipo depende dos Artefatos 01 e 02 já executados com sucesso."
 )
